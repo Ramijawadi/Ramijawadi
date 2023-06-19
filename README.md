@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Rami Jawadii</h3>
+<h3 align="center" height="50" width="50">Hi 👋, I'm Rami Jawadii</h3>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
 - 💬 Ask me about **reactjs , reactnative , html , css , styledcomponent,js , bootstrap , antdesign, matrialUI , chakraUI ,reactStrap**
