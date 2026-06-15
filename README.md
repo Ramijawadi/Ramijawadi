@@ -165,7 +165,7 @@ https://smartstudyweb.vercel.app/
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ramijawadi" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ramijawadi" alt="trophy-image" />
 
 ---
 
