@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Rami Jawadii
+# 👋 Hey, I'm Rami Jawadi
 
 ### Senior Full-Stack Engineer • SaaS Builder • AI Enthusiast
 
