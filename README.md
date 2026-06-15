@@ -165,7 +165,7 @@ https://smartstudyweb.vercel.app/
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramijawadii&theme=onedark&row=4&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ramijawadii&theme=algolia&no-frame=true&rank=-C,-B&column=7" />
 </p>
 
 ---
