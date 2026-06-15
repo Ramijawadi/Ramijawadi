@@ -51,7 +51,10 @@ const rami = {
     "Node.js",
     "TypeScript",
     "React",
+    "Vite",
     "Next.js",
+    "Nest.js",
+    "Supabase",
     "MongoDB",
     "PostgreSQL",
     "Docker"
