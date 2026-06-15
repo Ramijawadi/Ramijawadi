@@ -174,7 +174,7 @@ https://smartstudyweb.vercel.app/
  ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramijawadii/Ramijawadi/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Ramijawadi/Ramijawadi/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
