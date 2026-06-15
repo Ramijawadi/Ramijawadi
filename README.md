@@ -34,11 +34,12 @@ Building scalable applications, enterprise platforms, cloud-native systems and A
 const rami = {
   location: "Tunisia 🇹🇳",
 
-  role: "Senior Full-Stack Engineer",
+  role: "Senior Full-Stack Developer",
 
   experience: "6+ Years",
 
   passions: [
+    "Building frontend Screens", 
     "Backend Engineering",
     "System Architecture",
     "DevOps",
