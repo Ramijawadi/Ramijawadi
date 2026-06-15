@@ -170,6 +170,20 @@ https://smartstudyweb.vercel.app/
 
 ---
 
+
+ ## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ramijawadii/ramijawadii/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramijawadii&theme=tokyo-night)](https://github.com/ramijawadii)
+
+
 ## 🌍 Current Focus
 
 ```yaml
