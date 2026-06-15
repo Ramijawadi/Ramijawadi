@@ -145,10 +145,10 @@ https://smartstudyweb.vercel.app/
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=ramijawadii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=Ramijawadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramijawadii&layout=compact&theme=tokyonight&hide_border=true"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramijawadi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
@@ -156,7 +156,7 @@ https://smartstudyweb.vercel.app/
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramijawadi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -165,7 +165,7 @@ https://smartstudyweb.vercel.app/
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramijawadii&theme=algolia&no-frame=true&rank=-C,-B&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ramijawadi&theme=algolia&no-frame=true&rank=-C,-B&column=7" />
 </p>
 
 ---
@@ -174,7 +174,7 @@ https://smartstudyweb.vercel.app/
  ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramijawadii/ramijawadii/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ramijawadii/Ramijawadi/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
@@ -241,6 +241,6 @@ https://www.linkedin.com/in/jawadi-rami/
 
 ### 🚀 Always Building Something Interesting
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=Ramijawadi&style=for-the-badge&color=blueviolet" />
 
 </div>
