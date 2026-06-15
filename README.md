@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Rami Jawadi
 
-### Senior Full-Stack Engineer • SaaS Builder • AI Enthusiast
+### Senior Full-Stack Developer • SaaS Builder • AI Enthusiast
 
 Building scalable applications, enterprise platforms, cloud-native systems and AI-powered solutions.
 
