@@ -32,9 +32,7 @@ Building scalable applications, enterprise platforms, cloud-native systems and A
 ```typescript
 const rami = {
   location: "Tunisia 🇹🇳",
-
   role: "Senior Full-Stack Developer",
-
   experience: "6+ Years",
 
   passions: [
