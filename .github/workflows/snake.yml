@@ -28,4 +28,4 @@ steps:
       target_branch: output
       build_dir: dist
     env:
-  GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+    GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
