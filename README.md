@@ -104,7 +104,7 @@ const rami = {
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,angular,redux,tailwind,antd,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,angular,redux,tailwind,Ant Design,html,css" />
 </p>
 
 ### Backend
